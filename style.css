@@ -1,0 +1,14 @@
+body{
+background-color: rgb(183, 195, 206);
+}
+
+#image{
+border: black 5px solid;
+}
+div{
+    background-color: rgb(161, 153, 153);
+    border: black 5px solid;
+}
+#h5_1{
+background-color: white;
+}
